@@ -15,7 +15,6 @@ module.exports = function(app) {
             for (var i = 0; i < req.body.scores.length; i++) {
                 diff += Math.abs(req.body.scores[i] - friends[x].scores[i]);
             }
-            console.log(friends[x].name + ' ' + 'diff: ' + diff);
 
             if (isNaN(score) == false) {
                 if (diff < score) {
@@ -26,7 +25,6 @@ module.exports = function(app) {
                 score = diff;
                 selectedFriend = friends[x];
             }
-            console.log(selectedFriend);
         }
 
         if (selectedFriend) {

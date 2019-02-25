@@ -10,7 +10,7 @@ var friends = [{
     },
     {
         name: 'Fidencio',
-        photo: 'https://scontent.ftpa1-1.fna.fbcdn.net/v/t1.0-9/10525969_743861472323322_8023678087746680256_n.jpg?_nc_cat=110&_nc_ht=scontent.ftpa1-1.fna&oh=8b983357b182aa044d44764a9f1a046b&oe=5D2079D5',
+        photo: 'https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/23130762_10214913492570633_1252749173093407883_n.jpg?_nc_cat=103&_nc_ht=scontent-atl3-1.xx&oh=a2ce7a9f4e47b5397341e030bd358661&oe=5CE19E14',
         scores: [2, 5, 4, 5, 2, 1, 4, 3, 2, 1]
     },
     {
