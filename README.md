@@ -2,7 +2,7 @@
 
 (Geek) Friend Finder is a simple web application to find a friend match based on a series of statements that the user agrees or disagrees with on a scale of 1 to 5 with 1 being strongly disagree and 5 being strongly agree.
 
-![Friend Finder]()
+![Friend Finder](https://github.com/Milleniyum/Friend-Finder/blob/master/app/public/images/friend_finder.gif)
 
 ## Technology
 
